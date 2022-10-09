@@ -1,1 +1,2 @@
-# makeyourowngame2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
